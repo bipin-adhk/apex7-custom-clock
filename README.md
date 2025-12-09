@@ -1,4 +1,5 @@
 # Custom OLED Clock for SteelSeries Apex 7
+#steelseries-oled
 
 A high-performance, native C implementation that displays a custom clock on your SteelSeries Apex 7 keyboard OLED screen.
 
