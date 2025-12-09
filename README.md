@@ -132,21 +132,6 @@ text
 
 5. **Restart your computer** to test
 
-## 📁 Project Structure
-
-apex7-custom-clock/
-├── apex7_clock.exe # Compiled executable
-├── main.c # Entry point
-├── clock_handler.c/h # Main clock logic
-├── time_formatter.c/h # Time/date formatting
-├── json_builder.c/h # JSON payload construction
-├── http_client.c/h # HTTP communication with SteelSeries
-├── file_reader.c/h # Config file reading
-├── config.h # Configuration constants
-├── Makefile # Build configuration
-└── README.md # This file
-
-text
 
 ## 🛠️ How It Works
 
